@@ -1,0 +1,61 @@
+OrderID,OrderDate,CompanyName,Country,order_value
+10479,1997-03-19,"Rattlesnake Canyon Grocery",USA,10508
+10607,1997-07-22,"Save-a-lot Markets",USA,6468
+10612,1997-07-28,"Save-a-lot Markets",USA,6375
+10440,1997-02-10,"Save-a-lot Markets",USA,5807
+10678,1997-09-23,"Save-a-lot Markets",USA,5300
+10616,1997-07-31,"Great Lakes Food Market",USA,5047
+10510,1997-04-18,"Save-a-lot Markets",USA,4752
+10711,1997-10-21,"Save-a-lot Markets",USA,4488
+10657,1997-09-04,"Save-a-lot Markets",USA,4410
+10401,1997-01-01,"Rattlesnake Canyon Grocery",USA,3838
+10555,1997-06-02,"Save-a-lot Markets",USA,3675
+10757,1997-11-27,"Save-a-lot Markets",USA,3067
+10714,1997-10-22,"Save-a-lot Markets",USA,2963
+10713,1997-10-22,"Save-a-lot Markets",USA,2876
+10805,1997-12-30,"The Big Cheese",USA,2780
+10756,1997-11-27,"Split Rail Beer & Ale",USA,2501
+10598,1997-07-14,"Rattlesnake Canyon Grocery",USA,2398
+10693,1997-10-06,"White Clover Markets",USA,2307
+10748,1997-11-20,"Save-a-lot Markets",USA,2180
+10452,1997-02-20,"Save-a-lot Markets",USA,2140
+10700,1997-10-10,"Save-a-lot Markets",USA,2098
+10706,1997-10-16,"Old World Delicatessen",USA,1884
+10740,1997-11-13,"White Clover Markets",USA,1792
+10441,1997-02-10,"Old World Delicatessen",USA,1750
+10660,1997-09-08,"Hungry Coyote Import Store",USA,1701
+10680,1997-09-24,"Old World Delicatessen",USA,1670
+10617,1997-07-31,"Great Lakes Food Market",USA,1650
+10722,1997-10-29,"Save-a-lot Markets",USA,1628
+10603,1997-07-18,"Save-a-lot Markets",USA,1508
+10596,1997-07-11,"White Clover Markets",USA,1486
+10504,1997-04-11,"White Clover Markets",USA,1403
+10624,1997-08-07,"The Cracker Box",USA,1394
+10681,1997-09-25,"Great Lakes Food Market",USA,1314
+10564,1997-06-10,"Rattlesnake Canyon Grocery",USA,1302
+10665,1997-09-11,"Lonesome Pine Restaurant",USA,1295
+10627,1997-08-11,"Save-a-lot Markets",USA,1260
+10469,1997-03-10,"White Clover Markets",USA,1122
+10719,1997-10-27,"Let's Stop N Shop",USA,1114
+10696,1997-10-08,"White Clover Markets",USA,996
+10569,1997-06-16,"Rattlesnake Canyon Grocery",USA,995
+10574,1997-06-19,"Trail's Head Gourmet Provisioners",USA,766
+10483,1997-03-24,"White Clover Markets",USA,685
+10656,1997-09-04,"Great Lakes Food Market",USA,661
+10761,1997-12-02,"Rattlesnake Canyon Grocery",USA,634
+10735,1997-11-10,"Let's Stop N Shop",USA,606
+10577,1997-06-23,"Trail's Head Gourmet Provisioners",USA,574
+10594,1997-07-09,"Old World Delicatessen",USA,558
+10432,1997-01-31,"Split Rail Beer & Ale",USA,490
+10600,1997-07-16,"Hungry Coyote Import Store",USA,478
+10723,1997-10-30,"White Clover Markets",USA,465
+10544,1997-05-21,"Lonesome Pine Restaurant",USA,420
+10528,1997-05-06,"Great Lakes Food Market",USA,402
+10579,1997-06-25,"Let's Stop N Shop",USA,328
+10775,1997-12-12,"The Cracker Box",USA,228
+10545,1997-05-22,"Lazy K Kountry Store",USA,210
+10708,1997-10-17,"The Big Cheese",USA,179
+10482,1997-03-21,"Lazy K Kountry Store",USA,150
+10662,1997-09-09,"Lonesome Pine Restaurant",USA,130
+10415,1997-01-15,"Hungry Coyote Import Store",USA,102
+10589,1997-07-04,"Great Lakes Food Market",USA,72

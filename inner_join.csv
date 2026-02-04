@@ -1,0 +1,831 @@
+OrderID,CompanyName,OrderDate
+10643,"Alfreds Futterkiste",1997-08-25
+10692,"Alfreds Futterkiste",1997-10-03
+10702,"Alfreds Futterkiste",1997-10-13
+10835,"Alfreds Futterkiste",1998-01-15
+10952,"Alfreds Futterkiste",1998-03-16
+11011,"Alfreds Futterkiste",1998-04-09
+10308,"Ana Trujillo Emparedados y helados",1996-09-18
+10625,"Ana Trujillo Emparedados y helados",1997-08-08
+10759,"Ana Trujillo Emparedados y helados",1997-11-28
+10926,"Ana Trujillo Emparedados y helados",1998-03-04
+10365,"Antonio Moreno Taquera",1996-11-27
+10507,"Antonio Moreno Taquera",1997-04-15
+10535,"Antonio Moreno Taquera",1997-05-13
+10573,"Antonio Moreno Taquera",1997-06-19
+10677,"Antonio Moreno Taquera",1997-09-22
+10682,"Antonio Moreno Taquera",1997-09-25
+10856,"Antonio Moreno Taquera",1998-01-28
+10355,"Around the Horn",1996-11-15
+10383,"Around the Horn",1996-12-16
+10453,"Around the Horn",1997-02-21
+10558,"Around the Horn",1997-06-04
+10707,"Around the Horn",1997-10-16
+10741,"Around the Horn",1997-11-14
+10743,"Around the Horn",1997-11-17
+10768,"Around the Horn",1997-12-08
+10793,"Around the Horn",1997-12-24
+10864,"Around the Horn",1998-02-02
+10920,"Around the Horn",1998-03-03
+10953,"Around the Horn",1998-03-16
+11016,"Around the Horn",1998-04-10
+10278,"Berglunds snabbkp",1996-08-12
+10280,"Berglunds snabbkp",1996-08-14
+10384,"Berglunds snabbkp",1996-12-16
+10444,"Berglunds snabbkp",1997-02-12
+10445,"Berglunds snabbkp",1997-02-13
+10524,"Berglunds snabbkp",1997-05-01
+10572,"Berglunds snabbkp",1997-06-18
+10626,"Berglunds snabbkp",1997-08-11
+10654,"Berglunds snabbkp",1997-09-02
+10672,"Berglunds snabbkp",1997-09-17
+10689,"Berglunds snabbkp",1997-10-01
+10733,"Berglunds snabbkp",1997-11-07
+10778,"Berglunds snabbkp",1997-12-16
+10837,"Berglunds snabbkp",1998-01-16
+10857,"Berglunds snabbkp",1998-01-28
+10866,"Berglunds snabbkp",1998-02-03
+10875,"Berglunds snabbkp",1998-02-06
+10924,"Berglunds snabbkp",1998-03-04
+10501,"Blauer See Delikatessen",1997-04-09
+10509,"Blauer See Delikatessen",1997-04-17
+10582,"Blauer See Delikatessen",1997-06-27
+10614,"Blauer See Delikatessen",1997-07-29
+10853,"Blauer See Delikatessen",1998-01-27
+10956,"Blauer See Delikatessen",1998-03-17
+11058,"Blauer See Delikatessen",1998-04-29
+10265,"Blondesddsl pre et fils",1996-07-25
+10297,"Blondesddsl pre et fils",1996-09-04
+10360,"Blondesddsl pre et fils",1996-11-22
+10436,"Blondesddsl pre et fils",1997-02-05
+10449,"Blondesddsl pre et fils",1997-02-18
+10559,"Blondesddsl pre et fils",1997-06-05
+10566,"Blondesddsl pre et fils",1997-06-12
+10584,"Blondesddsl pre et fils",1997-06-30
+10628,"Blondesddsl pre et fils",1997-08-12
+10679,"Blondesddsl pre et fils",1997-09-23
+10826,"Blondesddsl pre et fils",1998-01-12
+10326,"Blido Comidas preparadas",1996-10-10
+10801,"Blido Comidas preparadas",1997-12-29
+10970,"Blido Comidas preparadas",1998-03-24
+10331,"Bon app'",1996-10-16
+10340,"Bon app'",1996-10-29
+10362,"Bon app'",1996-11-25
+10470,"Bon app'",1997-03-11
+10511,"Bon app'",1997-04-18
+10525,"Bon app'",1997-05-02
+10663,"Bon app'",1997-09-10
+10715,"Bon app'",1997-10-23
+10730,"Bon app'",1997-11-05
+10732,"Bon app'",1997-11-06
+10755,"Bon app'",1997-11-26
+10827,"Bon app'",1998-01-12
+10871,"Bon app'",1998-02-05
+10876,"Bon app'",1998-02-09
+10932,"Bon app'",1998-03-06
+10940,"Bon app'",1998-03-11
+11076,"Bon app'",1998-05-06
+10389,"Bottom-Dollar Markets",1996-12-20
+10410,"Bottom-Dollar Markets",1997-01-10
+10411,"Bottom-Dollar Markets",1997-01-10
+10431,"Bottom-Dollar Markets",1997-01-30
+10492,"Bottom-Dollar Markets",1997-04-01
+10742,"Bottom-Dollar Markets",1997-11-14
+10918,"Bottom-Dollar Markets",1998-03-02
+10944,"Bottom-Dollar Markets",1998-03-12
+10949,"Bottom-Dollar Markets",1998-03-13
+10975,"Bottom-Dollar Markets",1998-03-25
+10982,"Bottom-Dollar Markets",1998-03-27
+11027,"Bottom-Dollar Markets",1998-04-16
+11045,"Bottom-Dollar Markets",1998-04-23
+11048,"Bottom-Dollar Markets",1998-04-24
+10289,"B's Beverages",1996-08-26
+10471,"B's Beverages",1997-03-11
+10484,"B's Beverages",1997-03-24
+10538,"B's Beverages",1997-05-15
+10539,"B's Beverages",1997-05-16
+10578,"B's Beverages",1997-06-24
+10599,"B's Beverages",1997-07-15
+10943,"B's Beverages",1998-03-11
+10947,"B's Beverages",1998-03-13
+11023,"B's Beverages",1998-04-14
+10521,"Cactus Comidas para llevar",1997-04-29
+10782,"Cactus Comidas para llevar",1997-12-17
+10819,"Cactus Comidas para llevar",1998-01-07
+10881,"Cactus Comidas para llevar",1998-02-11
+10937,"Cactus Comidas para llevar",1998-03-10
+11054,"Cactus Comidas para llevar",1998-04-28
+10259,"Centro comercial Moctezuma",1996-07-18
+10254,"Chop-suey Chinese",1996-07-11
+10370,"Chop-suey Chinese",1996-12-03
+10519,"Chop-suey Chinese",1997-04-28
+10731,"Chop-suey Chinese",1997-11-06
+10746,"Chop-suey Chinese",1997-11-19
+10966,"Chop-suey Chinese",1998-03-20
+11029,"Chop-suey Chinese",1998-04-16
+11041,"Chop-suey Chinese",1998-04-22
+10290,"Comrcio Mineiro",1996-08-27
+10466,"Comrcio Mineiro",1997-03-06
+10494,"Comrcio Mineiro",1997-04-02
+10969,"Comrcio Mineiro",1998-03-23
+11042,"Comrcio Mineiro",1998-04-22
+10435,"Consolidated Holdings",1997-02-04
+10462,"Consolidated Holdings",1997-03-03
+10848,"Consolidated Holdings",1998-01-23
+10363,"Drachenblut Delikatessen",1996-11-26
+10391,"Drachenblut Delikatessen",1996-12-23
+10797,"Drachenblut Delikatessen",1997-12-25
+10825,"Drachenblut Delikatessen",1998-01-09
+11036,"Drachenblut Delikatessen",1998-04-20
+11067,"Drachenblut Delikatessen",1998-05-04
+10311,"Du monde entier",1996-09-20
+10609,"Du monde entier",1997-07-24
+10683,"Du monde entier",1997-09-26
+10890,"Du monde entier",1998-02-16
+10364,"Eastern Connection",1996-11-26
+10400,"Eastern Connection",1997-01-01
+10532,"Eastern Connection",1997-05-09
+10726,"Eastern Connection",1997-11-03
+10987,"Eastern Connection",1998-03-31
+11024,"Eastern Connection",1998-04-15
+11047,"Eastern Connection",1998-04-24
+11056,"Eastern Connection",1998-04-28
+10258,"Ernst Handel",1996-07-17
+10263,"Ernst Handel",1996-07-23
+10351,"Ernst Handel",1996-11-11
+10368,"Ernst Handel",1996-11-29
+10382,"Ernst Handel",1996-12-13
+10390,"Ernst Handel",1996-12-23
+10402,"Ernst Handel",1997-01-02
+10403,"Ernst Handel",1997-01-03
+10430,"Ernst Handel",1997-01-30
+10442,"Ernst Handel",1997-02-11
+10514,"Ernst Handel",1997-04-22
+10571,"Ernst Handel",1997-06-17
+10595,"Ernst Handel",1997-07-10
+10633,"Ernst Handel",1997-08-15
+10667,"Ernst Handel",1997-09-12
+10698,"Ernst Handel",1997-10-09
+10764,"Ernst Handel",1997-12-03
+10771,"Ernst Handel",1997-12-10
+10773,"Ernst Handel",1997-12-11
+10776,"Ernst Handel",1997-12-15
+10795,"Ernst Handel",1997-12-24
+10836,"Ernst Handel",1998-01-16
+10854,"Ernst Handel",1998-01-27
+10895,"Ernst Handel",1998-02-18
+10968,"Ernst Handel",1998-03-23
+10979,"Ernst Handel",1998-03-26
+10990,"Ernst Handel",1998-04-01
+11008,"Ernst Handel",1998-04-08
+11017,"Ernst Handel",1998-04-13
+11072,"Ernst Handel",1998-05-05
+10347,"Familia Arquibaldo",1996-11-06
+10386,"Familia Arquibaldo",1996-12-18
+10414,"Familia Arquibaldo",1997-01-14
+10512,"Familia Arquibaldo",1997-04-21
+10581,"Familia Arquibaldo",1997-06-26
+10650,"Familia Arquibaldo",1997-08-29
+10725,"Familia Arquibaldo",1997-10-31
+10408,"Folies gourmandes",1997-01-08
+10480,"Folies gourmandes",1997-03-20
+10634,"Folies gourmandes",1997-08-15
+10763,"Folies gourmandes",1997-12-03
+10789,"Folies gourmandes",1997-12-22
+10264,"Folk och f HB",1996-07-24
+10327,"Folk och f HB",1996-10-11
+10378,"Folk och f HB",1996-12-10
+10434,"Folk och f HB",1997-02-03
+10460,"Folk och f HB",1997-02-28
+10533,"Folk och f HB",1997-05-12
+10561,"Folk och f HB",1997-06-06
+10703,"Folk och f HB",1997-10-14
+10762,"Folk och f HB",1997-12-02
+10774,"Folk och f HB",1997-12-11
+10824,"Folk och f HB",1998-01-09
+10880,"Folk och f HB",1998-02-10
+10902,"Folk och f HB",1998-02-23
+10955,"Folk och f HB",1998-03-17
+10977,"Folk och f HB",1998-03-26
+10980,"Folk och f HB",1998-03-27
+10993,"Folk och f HB",1998-04-01
+11001,"Folk och f HB",1998-04-06
+11050,"Folk och f HB",1998-04-27
+10267,Frankenversand,1996-07-29
+10337,Frankenversand,1996-10-24
+10342,Frankenversand,1996-10-30
+10396,Frankenversand,1996-12-27
+10488,Frankenversand,1997-03-27
+10560,Frankenversand,1997-06-06
+10623,Frankenversand,1997-08-07
+10653,Frankenversand,1997-09-02
+10670,Frankenversand,1997-09-16
+10675,Frankenversand,1997-09-19
+10717,Frankenversand,1997-10-24
+10791,Frankenversand,1997-12-23
+10859,Frankenversand,1998-01-29
+10929,Frankenversand,1998-03-05
+11012,Frankenversand,1998-04-09
+10671,"France restauration",1997-09-17
+10860,"France restauration",1998-01-29
+10971,"France restauration",1998-03-24
+10422,"Franchi S.p.A.",1997-01-22
+10710,"Franchi S.p.A.",1997-10-20
+10753,"Franchi S.p.A.",1997-11-25
+10807,"Franchi S.p.A.",1997-12-31
+11026,"Franchi S.p.A.",1998-04-15
+11060,"Franchi S.p.A.",1998-04-30
+10328,"Furia Bacalhau e Frutos do Mar",1996-10-14
+10352,"Furia Bacalhau e Frutos do Mar",1996-11-12
+10464,"Furia Bacalhau e Frutos do Mar",1997-03-04
+10491,"Furia Bacalhau e Frutos do Mar",1997-03-31
+10551,"Furia Bacalhau e Frutos do Mar",1997-05-28
+10604,"Furia Bacalhau e Frutos do Mar",1997-07-18
+10664,"Furia Bacalhau e Frutos do Mar",1997-09-10
+10963,"Furia Bacalhau e Frutos do Mar",1998-03-19
+10366,"Galera del gastrnomo",1996-11-28
+10426,"Galera del gastrnomo",1997-01-27
+10568,"Galera del gastrnomo",1997-06-13
+10887,"Galera del gastrnomo",1998-02-13
+10928,"Galera del gastrnomo",1998-03-05
+10303,"Godos Cocina Tpica",1996-09-11
+10550,"Godos Cocina Tpica",1997-05-28
+10629,"Godos Cocina Tpica",1997-08-12
+10872,"Godos Cocina Tpica",1998-02-05
+10874,"Godos Cocina Tpica",1998-02-06
+10888,"Godos Cocina Tpica",1998-02-16
+10911,"Godos Cocina Tpica",1998-02-26
+10948,"Godos Cocina Tpica",1998-03-13
+11009,"Godos Cocina Tpica",1998-04-08
+11037,"Godos Cocina Tpica",1998-04-21
+10423,"Gourmet Lanchonetes",1997-01-23
+10652,"Gourmet Lanchonetes",1997-09-01
+10685,"Gourmet Lanchonetes",1997-09-29
+10709,"Gourmet Lanchonetes",1997-10-17
+10734,"Gourmet Lanchonetes",1997-11-07
+10777,"Gourmet Lanchonetes",1997-12-15
+10790,"Gourmet Lanchonetes",1997-12-22
+10959,"Gourmet Lanchonetes",1998-03-18
+11049,"Gourmet Lanchonetes",1998-04-24
+10528,"Great Lakes Food Market",1997-05-06
+10589,"Great Lakes Food Market",1997-07-04
+10616,"Great Lakes Food Market",1997-07-31
+10617,"Great Lakes Food Market",1997-07-31
+10656,"Great Lakes Food Market",1997-09-04
+10681,"Great Lakes Food Market",1997-09-25
+10816,"Great Lakes Food Market",1998-01-06
+10936,"Great Lakes Food Market",1998-03-09
+11006,"Great Lakes Food Market",1998-04-07
+11040,"Great Lakes Food Market",1998-04-22
+11061,"Great Lakes Food Market",1998-04-30
+10268,GROSELLA-Restaurante,1996-07-30
+10785,GROSELLA-Restaurante,1997-12-18
+10250,"Hanari Carnes",1996-07-08
+10253,"Hanari Carnes",1996-07-10
+10541,"Hanari Carnes",1997-05-19
+10645,"Hanari Carnes",1997-08-26
+10690,"Hanari Carnes",1997-10-02
+10770,"Hanari Carnes",1997-12-09
+10783,"Hanari Carnes",1997-12-18
+10886,"Hanari Carnes",1998-02-13
+10903,"Hanari Carnes",1998-02-24
+10922,"Hanari Carnes",1998-03-03
+10925,"Hanari Carnes",1998-03-04
+10981,"Hanari Carnes",1998-03-27
+11022,"Hanari Carnes",1998-04-14
+11052,"Hanari Carnes",1998-04-27
+10257,HILARION-Abastos,1996-07-16
+10395,HILARION-Abastos,1996-12-26
+10476,HILARION-Abastos,1997-03-17
+10486,HILARION-Abastos,1997-03-26
+10490,HILARION-Abastos,1997-03-31
+10498,HILARION-Abastos,1997-04-07
+10552,HILARION-Abastos,1997-05-29
+10601,HILARION-Abastos,1997-07-16
+10613,HILARION-Abastos,1997-07-29
+10641,HILARION-Abastos,1997-08-22
+10705,HILARION-Abastos,1997-10-15
+10796,HILARION-Abastos,1997-12-25
+10863,HILARION-Abastos,1998-02-02
+10901,HILARION-Abastos,1998-02-23
+10957,HILARION-Abastos,1998-03-18
+10960,HILARION-Abastos,1998-03-19
+10976,HILARION-Abastos,1998-03-25
+11055,HILARION-Abastos,1998-04-28
+10375,"Hungry Coyote Import Store",1996-12-06
+10394,"Hungry Coyote Import Store",1996-12-25
+10415,"Hungry Coyote Import Store",1997-01-15
+10600,"Hungry Coyote Import Store",1997-07-16
+10660,"Hungry Coyote Import Store",1997-09-08
+10298,"Hungry Owl All-Night Grocers",1996-09-05
+10309,"Hungry Owl All-Night Grocers",1996-09-19
+10335,"Hungry Owl All-Night Grocers",1996-10-22
+10373,"Hungry Owl All-Night Grocers",1996-12-05
+10380,"Hungry Owl All-Night Grocers",1996-12-12
+10429,"Hungry Owl All-Night Grocers",1997-01-29
+10503,"Hungry Owl All-Night Grocers",1997-04-11
+10516,"Hungry Owl All-Night Grocers",1997-04-24
+10567,"Hungry Owl All-Night Grocers",1997-06-12
+10646,"Hungry Owl All-Night Grocers",1997-08-27
+10661,"Hungry Owl All-Night Grocers",1997-09-09
+10687,"Hungry Owl All-Night Grocers",1997-09-30
+10701,"Hungry Owl All-Night Grocers",1997-10-13
+10712,"Hungry Owl All-Night Grocers",1997-10-21
+10736,"Hungry Owl All-Night Grocers",1997-11-11
+10897,"Hungry Owl All-Night Grocers",1998-02-19
+10912,"Hungry Owl All-Night Grocers",1998-02-26
+10985,"Hungry Owl All-Night Grocers",1998-03-30
+11063,"Hungry Owl All-Night Grocers",1998-04-30
+10315,"Island Trading",1996-09-26
+10318,"Island Trading",1996-10-01
+10321,"Island Trading",1996-10-03
+10473,"Island Trading",1997-03-13
+10621,"Island Trading",1997-08-05
+10674,"Island Trading",1997-09-18
+10749,"Island Trading",1997-11-20
+10798,"Island Trading",1997-12-26
+10829,"Island Trading",1998-01-13
+10933,"Island Trading",1998-03-06
+10323,"Kniglich Essen",1996-10-07
+10325,"Kniglich Essen",1996-10-09
+10456,"Kniglich Essen",1997-02-25
+10457,"Kniglich Essen",1997-02-25
+10468,"Kniglich Essen",1997-03-07
+10506,"Kniglich Essen",1997-04-15
+10542,"Kniglich Essen",1997-05-20
+10630,"Kniglich Essen",1997-08-13
+10718,"Kniglich Essen",1997-10-27
+10799,"Kniglich Essen",1997-12-26
+10817,"Kniglich Essen",1998-01-06
+10849,"Kniglich Essen",1998-01-23
+10893,"Kniglich Essen",1998-02-18
+11028,"Kniglich Essen",1998-04-16
+10858,"La corne d'abondance",1998-01-29
+10927,"La corne d'abondance",1998-03-05
+10972,"La corne d'abondance",1998-03-24
+10973,"La corne d'abondance",1998-03-24
+10350,"La maison d'Asie",1996-11-11
+10358,"La maison d'Asie",1996-11-20
+10371,"La maison d'Asie",1996-12-03
+10413,"La maison d'Asie",1997-01-14
+10425,"La maison d'Asie",1997-01-24
+10454,"La maison d'Asie",1997-02-21
+10493,"La maison d'Asie",1997-04-02
+10500,"La maison d'Asie",1997-04-09
+10610,"La maison d'Asie",1997-07-25
+10631,"La maison d'Asie",1997-08-14
+10787,"La maison d'Asie",1997-12-19
+10832,"La maison d'Asie",1998-01-14
+10923,"La maison d'Asie",1998-03-03
+11051,"La maison d'Asie",1998-04-27
+10495,"Laughing Bacchus Wine Cellars",1997-04-03
+10620,"Laughing Bacchus Wine Cellars",1997-08-05
+10810,"Laughing Bacchus Wine Cellars",1998-01-01
+10482,"Lazy K Kountry Store",1997-03-21
+10545,"Lazy K Kountry Store",1997-05-22
+10279,"Lehmanns Marktstand",1996-08-13
+10284,"Lehmanns Marktstand",1996-08-19
+10343,"Lehmanns Marktstand",1996-10-31
+10497,"Lehmanns Marktstand",1997-04-04
+10522,"Lehmanns Marktstand",1997-04-30
+10534,"Lehmanns Marktstand",1997-05-12
+10536,"Lehmanns Marktstand",1997-05-14
+10557,"Lehmanns Marktstand",1997-06-03
+10592,"Lehmanns Marktstand",1997-07-08
+10593,"Lehmanns Marktstand",1997-07-09
+10772,"Lehmanns Marktstand",1997-12-10
+10862,"Lehmanns Marktstand",1998-01-30
+10891,"Lehmanns Marktstand",1998-02-17
+10934,"Lehmanns Marktstand",1998-03-09
+11070,"Lehmanns Marktstand",1998-05-05
+10579,"Let's Stop N Shop",1997-06-25
+10719,"Let's Stop N Shop",1997-10-27
+10735,"Let's Stop N Shop",1997-11-10
+10884,"Let's Stop N Shop",1998-02-12
+10283,LILA-Supermercado,1996-08-16
+10296,LILA-Supermercado,1996-09-03
+10330,LILA-Supermercado,1996-10-16
+10357,LILA-Supermercado,1996-11-19
+10381,LILA-Supermercado,1996-12-12
+10461,LILA-Supermercado,1997-02-28
+10499,LILA-Supermercado,1997-04-08
+10543,LILA-Supermercado,1997-05-21
+10780,LILA-Supermercado,1997-12-16
+10823,LILA-Supermercado,1998-01-09
+10899,LILA-Supermercado,1998-02-20
+10997,LILA-Supermercado,1998-04-03
+11065,LILA-Supermercado,1998-05-01
+11071,LILA-Supermercado,1998-05-05
+10405,LINO-Delicateses,1997-01-06
+10485,LINO-Delicateses,1997-03-25
+10638,LINO-Delicateses,1997-08-20
+10697,LINO-Delicateses,1997-10-08
+10729,LINO-Delicateses,1997-11-04
+10811,LINO-Delicateses,1998-01-02
+10838,LINO-Delicateses,1998-01-19
+10840,LINO-Delicateses,1998-01-19
+10919,LINO-Delicateses,1998-03-02
+10954,LINO-Delicateses,1998-03-17
+11014,LINO-Delicateses,1998-04-10
+11039,LINO-Delicateses,1998-04-21
+10307,"Lonesome Pine Restaurant",1996-09-17
+10317,"Lonesome Pine Restaurant",1996-09-30
+10544,"Lonesome Pine Restaurant",1997-05-21
+10662,"Lonesome Pine Restaurant",1997-09-09
+10665,"Lonesome Pine Restaurant",1997-09-11
+10867,"Lonesome Pine Restaurant",1998-02-03
+10883,"Lonesome Pine Restaurant",1998-02-12
+11018,"Lonesome Pine Restaurant",1998-04-13
+10275,"Magazzini Alimentari Riuniti",1996-08-07
+10300,"Magazzini Alimentari Riuniti",1996-09-09
+10404,"Magazzini Alimentari Riuniti",1997-01-03
+10467,"Magazzini Alimentari Riuniti",1997-03-06
+10635,"Magazzini Alimentari Riuniti",1997-08-18
+10754,"Magazzini Alimentari Riuniti",1997-11-25
+10784,"Magazzini Alimentari Riuniti",1997-12-18
+10818,"Magazzini Alimentari Riuniti",1998-01-07
+10939,"Magazzini Alimentari Riuniti",1998-03-10
+10950,"Magazzini Alimentari Riuniti",1998-03-16
+10529,"Maison Dewey",1997-05-07
+10649,"Maison Dewey",1997-08-28
+10760,"Maison Dewey",1997-12-01
+10892,"Maison Dewey",1998-02-17
+10896,"Maison Dewey",1998-02-19
+10978,"Maison Dewey",1998-03-26
+11004,"Maison Dewey",1998-04-07
+10332,"Mre Paillarde",1996-10-17
+10339,"Mre Paillarde",1996-10-28
+10376,"Mre Paillarde",1996-12-09
+10424,"Mre Paillarde",1997-01-23
+10439,"Mre Paillarde",1997-02-07
+10505,"Mre Paillarde",1997-04-14
+10565,"Mre Paillarde",1997-06-11
+10570,"Mre Paillarde",1997-06-17
+10590,"Mre Paillarde",1997-07-07
+10605,"Mre Paillarde",1997-07-21
+10618,"Mre Paillarde",1997-08-01
+10619,"Mre Paillarde",1997-08-04
+10724,"Mre Paillarde",1997-10-30
+10277,"Morgenstern Gesundkost",1996-08-09
+10575,"Morgenstern Gesundkost",1997-06-20
+10699,"Morgenstern Gesundkost",1997-10-09
+10779,"Morgenstern Gesundkost",1997-12-16
+10945,"Morgenstern Gesundkost",1998-03-12
+10517,North/South,1997-04-24
+10752,North/South,1997-11-24
+11057,North/South,1998-04-29
+10409,"Ocano Atlntico Ltda.",1997-01-09
+10531,"Ocano Atlntico Ltda.",1997-05-08
+10898,"Ocano Atlntico Ltda.",1998-02-20
+10958,"Ocano Atlntico Ltda.",1998-03-18
+10986,"Ocano Atlntico Ltda.",1998-03-30
+10305,"Old World Delicatessen",1996-09-13
+10338,"Old World Delicatessen",1996-10-25
+10441,"Old World Delicatessen",1997-02-10
+10594,"Old World Delicatessen",1997-07-09
+10680,"Old World Delicatessen",1997-09-24
+10706,"Old World Delicatessen",1997-10-16
+10808,"Old World Delicatessen",1998-01-01
+10855,"Old World Delicatessen",1998-01-27
+10965,"Old World Delicatessen",1998-03-20
+11034,"Old World Delicatessen",1998-04-20
+10260,"Ottilies Kseladen",1996-07-19
+10407,"Ottilies Kseladen",1997-01-07
+10508,"Ottilies Kseladen",1997-04-16
+10554,"Ottilies Kseladen",1997-05-30
+10580,"Ottilies Kseladen",1997-06-26
+10684,"Ottilies Kseladen",1997-09-26
+10766,"Ottilies Kseladen",1997-12-05
+10833,"Ottilies Kseladen",1998-01-15
+10999,"Ottilies Kseladen",1998-04-03
+11020,"Ottilies Kseladen",1998-04-14
+10322,"Pericles Comidas clsicas",1996-10-04
+10354,"Pericles Comidas clsicas",1996-11-14
+10474,"Pericles Comidas clsicas",1997-03-13
+10502,"Pericles Comidas clsicas",1997-04-10
+10995,"Pericles Comidas clsicas",1998-04-02
+11073,"Pericles Comidas clsicas",1998-05-05
+10353,"Piccolo und mehr",1996-11-13
+10392,"Piccolo und mehr",1996-12-24
+10427,"Piccolo und mehr",1997-01-27
+10489,"Piccolo und mehr",1997-03-28
+10530,"Piccolo und mehr",1997-05-08
+10597,"Piccolo und mehr",1997-07-11
+10686,"Piccolo und mehr",1997-09-30
+10747,"Piccolo und mehr",1997-11-19
+10844,"Piccolo und mehr",1998-01-21
+11053,"Piccolo und mehr",1998-04-27
+10336,"Princesa Isabel Vinhos",1996-10-23
+10397,"Princesa Isabel Vinhos",1996-12-27
+10433,"Princesa Isabel Vinhos",1997-02-03
+10477,"Princesa Isabel Vinhos",1997-03-17
+11007,"Princesa Isabel Vinhos",1998-04-08
+10261,"Que Delcia",1996-07-19
+10291,"Que Delcia",1996-08-27
+10379,"Que Delcia",1996-12-11
+10421,"Que Delcia",1997-01-21
+10587,"Que Delcia",1997-07-02
+10647,"Que Delcia",1997-08-27
+10720,"Que Delcia",1997-10-28
+10794,"Que Delcia",1997-12-24
+10989,"Que Delcia",1998-03-31
+10372,"Queen Cozinha",1996-12-04
+10406,"Queen Cozinha",1997-01-07
+10487,"Queen Cozinha",1997-03-26
+10637,"Queen Cozinha",1997-08-19
+10659,"Queen Cozinha",1997-09-05
+10704,"Queen Cozinha",1997-10-14
+10728,"Queen Cozinha",1997-11-04
+10786,"Queen Cozinha",1997-12-19
+10868,"Queen Cozinha",1998-02-04
+10913,"Queen Cozinha",1998-02-26
+10914,"Queen Cozinha",1998-02-27
+10961,"Queen Cozinha",1998-03-19
+11068,"Queen Cozinha",1998-05-04
+10273,QUICK-Stop,1996-08-05
+10285,QUICK-Stop,1996-08-20
+10286,QUICK-Stop,1996-08-21
+10313,QUICK-Stop,1996-09-24
+10345,QUICK-Stop,1996-11-04
+10361,QUICK-Stop,1996-11-22
+10418,QUICK-Stop,1997-01-17
+10451,QUICK-Stop,1997-02-19
+10515,QUICK-Stop,1997-04-23
+10527,QUICK-Stop,1997-05-05
+10540,QUICK-Stop,1997-05-19
+10549,QUICK-Stop,1997-05-27
+10588,QUICK-Stop,1997-07-03
+10658,QUICK-Stop,1997-09-05
+10691,QUICK-Stop,1997-10-03
+10694,QUICK-Stop,1997-10-06
+10721,QUICK-Stop,1997-10-29
+10745,QUICK-Stop,1997-11-18
+10765,QUICK-Stop,1997-12-04
+10788,QUICK-Stop,1997-12-22
+10845,QUICK-Stop,1998-01-21
+10865,QUICK-Stop,1998-02-02
+10878,QUICK-Stop,1998-02-10
+10938,QUICK-Stop,1998-03-10
+10962,QUICK-Stop,1998-03-19
+10991,QUICK-Stop,1998-04-01
+10996,QUICK-Stop,1998-04-02
+11021,QUICK-Stop,1998-04-14
+10448,"Rancho grande",1997-02-17
+10716,"Rancho grande",1997-10-24
+10828,"Rancho grande",1998-01-13
+10916,"Rancho grande",1998-02-27
+11019,"Rancho grande",1998-04-13
+10262,"Rattlesnake Canyon Grocery",1996-07-22
+10272,"Rattlesnake Canyon Grocery",1996-08-02
+10294,"Rattlesnake Canyon Grocery",1996-08-30
+10314,"Rattlesnake Canyon Grocery",1996-09-25
+10316,"Rattlesnake Canyon Grocery",1996-09-27
+10346,"Rattlesnake Canyon Grocery",1996-11-05
+10401,"Rattlesnake Canyon Grocery",1997-01-01
+10479,"Rattlesnake Canyon Grocery",1997-03-19
+10564,"Rattlesnake Canyon Grocery",1997-06-10
+10569,"Rattlesnake Canyon Grocery",1997-06-16
+10598,"Rattlesnake Canyon Grocery",1997-07-14
+10761,"Rattlesnake Canyon Grocery",1997-12-02
+10820,"Rattlesnake Canyon Grocery",1998-01-07
+10852,"Rattlesnake Canyon Grocery",1998-01-26
+10889,"Rattlesnake Canyon Grocery",1998-02-16
+10988,"Rattlesnake Canyon Grocery",1998-03-31
+11000,"Rattlesnake Canyon Grocery",1998-04-06
+11077,"Rattlesnake Canyon Grocery",1998-05-06
+10288,"Reggiani Caseifici",1996-08-23
+10428,"Reggiani Caseifici",1997-01-28
+10443,"Reggiani Caseifici",1997-02-12
+10562,"Reggiani Caseifici",1997-06-09
+10586,"Reggiani Caseifici",1997-07-02
+10655,"Reggiani Caseifici",1997-09-03
+10727,"Reggiani Caseifici",1997-11-03
+10812,"Reggiani Caseifici",1998-01-02
+10908,"Reggiani Caseifici",1998-02-26
+10942,"Reggiani Caseifici",1998-03-11
+11010,"Reggiani Caseifici",1998-04-09
+11062,"Reggiani Caseifici",1998-04-30
+10287,"Ricardo Adocicados",1996-08-22
+10299,"Ricardo Adocicados",1996-09-06
+10447,"Ricardo Adocicados",1997-02-14
+10481,"Ricardo Adocicados",1997-03-20
+10563,"Ricardo Adocicados",1997-06-10
+10622,"Ricardo Adocicados",1997-08-06
+10648,"Ricardo Adocicados",1997-08-28
+10813,"Ricardo Adocicados",1998-01-05
+10851,"Ricardo Adocicados",1998-01-26
+10877,"Ricardo Adocicados",1998-02-09
+11059,"Ricardo Adocicados",1998-04-29
+10255,"Richter Supermarkt",1996-07-12
+10419,"Richter Supermarkt",1997-01-20
+10537,"Richter Supermarkt",1997-05-14
+10666,"Richter Supermarkt",1997-09-12
+10751,"Richter Supermarkt",1997-11-24
+10758,"Richter Supermarkt",1997-11-28
+10931,"Richter Supermarkt",1998-03-06
+10951,"Richter Supermarkt",1998-03-16
+11033,"Richter Supermarkt",1998-04-17
+11075,"Richter Supermarkt",1998-05-06
+10281,"Romero y tomillo",1996-08-14
+10282,"Romero y tomillo",1996-08-15
+10306,"Romero y tomillo",1996-09-16
+10917,"Romero y tomillo",1998-03-02
+11013,"Romero y tomillo",1998-04-09
+10387,"Sant Gourmet",1996-12-18
+10520,"Sant Gourmet",1997-04-29
+10639,"Sant Gourmet",1997-08-20
+10831,"Sant Gourmet",1998-01-14
+10909,"Sant Gourmet",1998-02-26
+11015,"Sant Gourmet",1998-04-10
+10324,"Save-a-lot Markets",1996-10-08
+10393,"Save-a-lot Markets",1996-12-25
+10398,"Save-a-lot Markets",1996-12-30
+10440,"Save-a-lot Markets",1997-02-10
+10452,"Save-a-lot Markets",1997-02-20
+10510,"Save-a-lot Markets",1997-04-18
+10555,"Save-a-lot Markets",1997-06-02
+10603,"Save-a-lot Markets",1997-07-18
+10607,"Save-a-lot Markets",1997-07-22
+10612,"Save-a-lot Markets",1997-07-28
+10627,"Save-a-lot Markets",1997-08-11
+10657,"Save-a-lot Markets",1997-09-04
+10678,"Save-a-lot Markets",1997-09-23
+10700,"Save-a-lot Markets",1997-10-10
+10711,"Save-a-lot Markets",1997-10-21
+10713,"Save-a-lot Markets",1997-10-22
+10714,"Save-a-lot Markets",1997-10-22
+10722,"Save-a-lot Markets",1997-10-29
+10748,"Save-a-lot Markets",1997-11-20
+10757,"Save-a-lot Markets",1997-11-27
+10815,"Save-a-lot Markets",1998-01-05
+10847,"Save-a-lot Markets",1998-01-22
+10882,"Save-a-lot Markets",1998-02-11
+10894,"Save-a-lot Markets",1998-02-18
+10941,"Save-a-lot Markets",1998-03-11
+10983,"Save-a-lot Markets",1998-03-27
+10984,"Save-a-lot Markets",1998-03-30
+11002,"Save-a-lot Markets",1998-04-06
+11030,"Save-a-lot Markets",1998-04-17
+11031,"Save-a-lot Markets",1998-04-17
+11064,"Save-a-lot Markets",1998-05-01
+10359,"Seven Seas Imports",1996-11-21
+10377,"Seven Seas Imports",1996-12-09
+10388,"Seven Seas Imports",1996-12-19
+10472,"Seven Seas Imports",1997-03-12
+10523,"Seven Seas Imports",1997-05-01
+10547,"Seven Seas Imports",1997-05-23
+10800,"Seven Seas Imports",1997-12-26
+10804,"Seven Seas Imports",1997-12-30
+10869,"Seven Seas Imports",1998-02-04
+10341,"Simons bistro",1996-10-29
+10417,"Simons bistro",1997-01-16
+10556,"Simons bistro",1997-06-03
+10642,"Simons bistro",1997-08-22
+10669,"Simons bistro",1997-09-15
+10802,"Simons bistro",1997-12-29
+11074,"Simons bistro",1998-05-06
+10738,"Spcialits du monde",1997-11-12
+10907,"Spcialits du monde",1998-02-25
+10964,"Spcialits du monde",1998-03-20
+11043,"Spcialits du monde",1998-04-22
+10271,"Split Rail Beer & Ale",1996-08-01
+10329,"Split Rail Beer & Ale",1996-10-15
+10349,"Split Rail Beer & Ale",1996-11-08
+10369,"Split Rail Beer & Ale",1996-12-02
+10385,"Split Rail Beer & Ale",1996-12-17
+10432,"Split Rail Beer & Ale",1997-01-31
+10756,"Split Rail Beer & Ale",1997-11-27
+10821,"Split Rail Beer & Ale",1998-01-08
+10974,"Split Rail Beer & Ale",1998-03-25
+10252,"Suprmes dlices",1996-07-09
+10302,"Suprmes dlices",1996-09-10
+10458,"Suprmes dlices",1997-02-26
+10463,"Suprmes dlices",1997-03-04
+10475,"Suprmes dlices",1997-03-14
+10767,"Suprmes dlices",1997-12-05
+10841,"Suprmes dlices",1998-01-20
+10846,"Suprmes dlices",1998-01-22
+10885,"Suprmes dlices",1998-02-12
+10930,"Suprmes dlices",1998-03-06
+11035,"Suprmes dlices",1998-04-20
+11038,"Suprmes dlices",1998-04-21
+10310,"The Big Cheese",1996-09-20
+10708,"The Big Cheese",1997-10-17
+10805,"The Big Cheese",1997-12-30
+10992,"The Big Cheese",1998-04-01
+10624,"The Cracker Box",1997-08-07
+10775,"The Cracker Box",1997-12-12
+11003,"The Cracker Box",1998-04-06
+10249,"Toms Spezialitten",1996-07-05
+10438,"Toms Spezialitten",1997-02-06
+10446,"Toms Spezialitten",1997-02-14
+10548,"Toms Spezialitten",1997-05-26
+10608,"Toms Spezialitten",1997-07-23
+10967,"Toms Spezialitten",1998-03-23
+10276,"Tortuga Restaurante",1996-08-08
+10293,"Tortuga Restaurante",1996-08-29
+10304,"Tortuga Restaurante",1996-09-12
+10319,"Tortuga Restaurante",1996-10-02
+10518,"Tortuga Restaurante",1997-04-25
+10576,"Tortuga Restaurante",1997-06-23
+10676,"Tortuga Restaurante",1997-09-22
+10842,"Tortuga Restaurante",1998-01-20
+10915,"Tortuga Restaurante",1998-02-27
+11069,"Tortuga Restaurante",1998-05-04
+10292,"Tradio Hipermercados",1996-08-28
+10496,"Tradio Hipermercados",1997-04-04
+10606,"Tradio Hipermercados",1997-07-22
+10830,"Tradio Hipermercados",1998-01-13
+10834,"Tradio Hipermercados",1998-01-15
+10839,"Tradio Hipermercados",1998-01-19
+10574,"Trail's Head Gourmet Provisioners",1997-06-19
+10577,"Trail's Head Gourmet Provisioners",1997-06-23
+10822,"Trail's Head Gourmet Provisioners",1998-01-08
+10367,Vaffeljernet,1996-11-28
+10399,Vaffeljernet,1996-12-31
+10465,Vaffeljernet,1997-03-05
+10591,Vaffeljernet,1997-07-07
+10602,Vaffeljernet,1997-07-17
+10688,Vaffeljernet,1997-10-01
+10744,Vaffeljernet,1997-11-17
+10769,Vaffeljernet,1997-12-08
+10921,Vaffeljernet,1998-03-03
+10946,Vaffeljernet,1998-03-12
+10994,Vaffeljernet,1998-04-02
+10251,"Victuailles en stock",1996-07-08
+10334,"Victuailles en stock",1996-10-21
+10450,"Victuailles en stock",1997-02-19
+10459,"Victuailles en stock",1997-02-27
+10478,"Victuailles en stock",1997-03-18
+10546,"Victuailles en stock",1997-05-23
+10806,"Victuailles en stock",1997-12-31
+10814,"Victuailles en stock",1998-01-05
+10843,"Victuailles en stock",1998-01-21
+10850,"Victuailles en stock",1998-01-23
+10248,"Vins et alcools Chevalier",1996-07-04
+10274,"Vins et alcools Chevalier",1996-08-06
+10295,"Vins et alcools Chevalier",1996-09-02
+10737,"Vins et alcools Chevalier",1997-11-11
+10739,"Vins et alcools Chevalier",1997-11-12
+10301,"Die Wandernde Kuh",1996-09-09
+10312,"Die Wandernde Kuh",1996-09-23
+10348,"Die Wandernde Kuh",1996-11-07
+10356,"Die Wandernde Kuh",1996-11-18
+10513,"Die Wandernde Kuh",1997-04-22
+10632,"Die Wandernde Kuh",1997-08-14
+10640,"Die Wandernde Kuh",1997-08-21
+10651,"Die Wandernde Kuh",1997-09-01
+10668,"Die Wandernde Kuh",1997-09-15
+11046,"Die Wandernde Kuh",1998-04-23
+10266,"Wartian Herkku",1996-07-26
+10270,"Wartian Herkku",1996-08-01
+10320,"Wartian Herkku",1996-10-03
+10333,"Wartian Herkku",1996-10-18
+10412,"Wartian Herkku",1997-01-13
+10416,"Wartian Herkku",1997-01-16
+10437,"Wartian Herkku",1997-02-05
+10455,"Wartian Herkku",1997-02-24
+10526,"Wartian Herkku",1997-05-05
+10553,"Wartian Herkku",1997-05-30
+10583,"Wartian Herkku",1997-06-30
+10636,"Wartian Herkku",1997-08-19
+10750,"Wartian Herkku",1997-11-21
+10781,"Wartian Herkku",1997-12-17
+11025,"Wartian Herkku",1998-04-15
+10256,"Wellington Importadora",1996-07-15
+10420,"Wellington Importadora",1997-01-21
+10585,"Wellington Importadora",1997-07-01
+10644,"Wellington Importadora",1997-08-25
+10803,"Wellington Importadora",1997-12-30
+10809,"Wellington Importadora",1998-01-01
+10900,"Wellington Importadora",1998-02-20
+10905,"Wellington Importadora",1998-02-24
+10935,"Wellington Importadora",1998-03-09
+10269,"White Clover Markets",1996-07-31
+10344,"White Clover Markets",1996-11-01
+10469,"White Clover Markets",1997-03-10
+10483,"White Clover Markets",1997-03-24
+10504,"White Clover Markets",1997-04-11
+10596,"White Clover Markets",1997-07-11
+10693,"White Clover Markets",1997-10-06
+10696,"White Clover Markets",1997-10-08
+10723,"White Clover Markets",1997-10-30
+10740,"White Clover Markets",1997-11-13
+10861,"White Clover Markets",1998-01-30
+10904,"White Clover Markets",1998-02-24
+11032,"White Clover Markets",1998-04-17
+11066,"White Clover Markets",1998-05-01
+10615,"Wilman Kala",1997-07-30
+10673,"Wilman Kala",1997-09-18
+10695,"Wilman Kala",1997-10-07
+10873,"Wilman Kala",1998-02-06
+10879,"Wilman Kala",1998-02-10
+10910,"Wilman Kala",1998-02-26
+11005,"Wilman Kala",1998-04-07
+10374,"Wolski  Zajazd",1996-12-05
+10611,"Wolski  Zajazd",1997-07-25
+10792,"Wolski  Zajazd",1997-12-23
+10870,"Wolski  Zajazd",1998-02-04
+10906,"Wolski  Zajazd",1998-02-25
+10998,"Wolski  Zajazd",1998-04-03
+11044,"Wolski  Zajazd",1998-04-23
